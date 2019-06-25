@@ -4,7 +4,7 @@ def readme():
     with open('README.md') as f:
         return f.read()
 
-setup(name='pytextrank',
+setup(name='xang1234_pytextrank',
       version='1.0.0',
       description='Python implimentation of TextRank for text document NLP parsing and summarization',
       long_description=readme(),
